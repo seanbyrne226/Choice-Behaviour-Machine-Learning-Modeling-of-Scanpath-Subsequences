@@ -1,5 +1,5 @@
 # Choice-Behaviour-Machine-Learning-Modeling-of-Scanpath-Subsequences
-This repository contains all the codes needed to recreate the results of the paper. The data is available upon reasonable request to the corresponding author. 
+This repository contains all the codes needed to recreate the results of the paper. The data is available upon reasonable requests via the corresponding author. 
 
 Note:
 We call Task 1 in the paper "EQ" in the code.\
